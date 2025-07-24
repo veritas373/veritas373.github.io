@@ -54,9 +54,9 @@ p.diary {
       font-size: 0.8em;
       line-height: 2em;
       margin: 0 0 1em;
-      padding: 1.7em 1.5em;
+      padding: 1.7em;
       position: relative;
       text-align: justify;
       opacity: 0.75;
-      width: 76%;
+      width: 74%;
 }
