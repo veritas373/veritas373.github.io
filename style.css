@@ -45,16 +45,11 @@ nav a, p.special {
       padding: 0.3em 1em;
 }
 
-pre {
-      display: block;
+p.diary {
       background-color: #ffffff;
+      display: inline-block;
       padding: 0.5em;
       position: relative;
       opacity: 0.75;
-      white-space: pre-wrap;
-      white-space: -moz-pre-wrap;
-      white-space: -pre-wrap;
-      white-space: -o-pre-wrap;
-      word-wrap: break-word;
       width: 80%;
 }
