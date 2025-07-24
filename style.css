@@ -21,13 +21,15 @@ div {
 
 div h1 {
     font-size: 1em !important;
-    margin: 0 0 0.5em !important;
 }
 
 h1 {
     font-size: 1.5em;
-    margin-top: 1.9em;
     margin-bottom: 0;
+}
+
+h1.special {
+    margin-top: 1.9em;
 }
 
 nav {
