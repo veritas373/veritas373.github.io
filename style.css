@@ -49,6 +49,7 @@ p.diary {
       background-color: #ffffff;
       display: inline-block;
       font-family: monospace;
+      line-height: 1.2em;
       margin-bottom: 1em;
       padding: 1em;
       position: relative;
