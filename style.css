@@ -19,14 +19,14 @@ div {
     width: 9em;
 }
 
+div h1 {
+     font-size: 1em !important;
+}
+
 h1 {
     font-size: 1.5em;
     margin-top: 1.9em;
     margin-bottom: 0;
-}
-
-div h1 {
-     font-size: 1em;
 }
 
 nav {
@@ -58,5 +58,5 @@ p.diary {
       position: relative;
       text-align: justify;
       opacity: 0.75;
-      width: 74%;
+      width: 70%;
 }
