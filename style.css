@@ -15,12 +15,13 @@ div {
     opacity: 0.75;
     padding: 0.8em 0.5em;
     position: relative;
-    vertical-align: text-top;
+    vertical-align: top;
     width: 9em;
 }
 
 div h1 {
-     font-size: 1em !important;
+    font-size: 1em !important;
+    margin: 0 0 0.5em !important;
 }
 
 h1 {
@@ -53,7 +54,7 @@ p.diary {
       font-family: monospace;
       font-size: 0.8em;
       line-height: 2em;
-      margin: 0 0 2em;
+      margin: 0 0 1.7em;
       padding: 1.7em 1.7em 1em;
       position: relative;
       text-align: justify;
