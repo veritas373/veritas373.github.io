@@ -21,7 +21,7 @@ div {
 
 h1 {
     font-size: 1.5em;
-    margin-top: 1em;
+    margin-top: 0.9em;
     margin-bottom: 0;
 }
 
@@ -54,7 +54,7 @@ p.diary {
       font-size: 0.8em;
       line-height: 2em;
       margin-bottom: 1em;
-      padding: 1em;
+      padding: 1.1em;
       position: relative;
       text-align: justify;
       opacity: 0.75;
