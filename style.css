@@ -11,7 +11,7 @@ div {
     display: inline-block;
     font-size: 0.7em;
     height: 11.5em;
-    margin: 0.5em 0.5em 1em;
+    margin: 0.5em;
     opacity: 0.75;
     padding: 0.8em 0.5em;
     position: relative;
@@ -54,7 +54,7 @@ p.diary {
       font-size: 0.8em;
       line-height: 2em;
       margin: 0 0 2em;
-      padding: 1.7em 1.7em 1.2em;
+      padding: 1.7em 1.7em 1em;
       position: relative;
       text-align: justify;
       opacity: 0.75;
