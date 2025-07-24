@@ -55,6 +55,7 @@ p.diary {
       display: inline-block;
       font-family: monospace;
       font-size: 0.8em;
+      hyphens: auto;
       line-height: 2em;
       margin: 0 0 1.5em;
       padding: 1.7em 1.7em 1em;
