@@ -32,6 +32,12 @@ h1.special {
     margin-top: 1.9em;
 }
 
+h2 {
+    font-size: 0.7em;
+    margin: 0.2em;
+    padding: 0;
+}
+
 nav {
     text-align: right;
 }
