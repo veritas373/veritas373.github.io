@@ -33,7 +33,7 @@ h1.special {
 
 h2 {
     font-weight: normal;
-    font-size: 0.9em;
+    font-size: 1em;
     margin-bottom: 1em;
     padding: 0;
 }
@@ -60,7 +60,7 @@ p.diary {
       background-color: #ffffff;
       display: inline-block;
       font-family: monospace;
-      font-size: 0.9em;
+      font-size: 1em;
       hyphens: auto;
       line-height: 2em;
       margin: 0 0 1.5em;
