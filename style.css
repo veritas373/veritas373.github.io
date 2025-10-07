@@ -1,7 +1,7 @@
 body {
     background-color: #bab3b6;
     font-size: 14px;
-    margin: 7px;
+    margin: 5px;
     padding: 0px;
     text-align: center;
 }
@@ -11,30 +11,29 @@ nav {
 }
 
 nav a {
-    margin-left: 6px;
+    margin-left: 5px;
     text-decoration: none;
 }
 
-nav a, p.special {
+nav a, div p.special {
       background-color: #3b3b3b;
-      border-radius: 14px;
+      border-radius: 15px;
       color: #ffffff;
       display: inline-block;
       margin: 0px;
-      padding: 4px 14px;
+      padding: 5px 15px;
 }
 
 div {
     background-color: #ffffff;
     display: inline-block;
-    font-size: 10px;
-    height: 157px;
-    margin: 7px;
+    font-size: 12px;
+    margin: 5px;
     opacity: 0.75;
-    padding: 11px 7px;
+    padding: 10px 5px;
     position: relative;
     vertical-align: top;
-    width: 126px;
+    width: 120px;
 }
 
 div h1 {
