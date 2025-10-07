@@ -2,30 +2,48 @@ body {
     background-color: #bab3b6;
     font-size: 14px;
     margin: 7px;
-    padding: 0;
+    padding: 0px;
     text-align: center;
+}
+
+nav {
+    text-align: right;
+}
+
+nav a {
+    margin-left: 6px;
+    text-decoration: none;
+}
+
+nav a, p.special {
+      background-color: #3b3b3b;
+      border-radius: 14px;
+      color: #ffffff;
+      display: inline-block;
+      margin: 0px;
+      padding: 4px 14px;
 }
 
 div {
     background-color: #ffffff;
     display: inline-block;
-    font-size: 0.7em;
-    height: 11.5em;
-    margin: 0.5em;
+    font-size: 10px;
+    height: 157px;
+    margin: 7px;
     opacity: 0.75;
-    padding: 0.8em 0.5em;
+    padding: 11px 7px;
     position: relative;
     vertical-align: top;
-    width: 9em;
+    width: 126px;
 }
 
 div h1 {
-    font-size: 1em !important;
+    font-size: 14px !important;
 }
 
 h1 {
-    font-size: 1.5em;
-    margin-bottom: 0;
+    font-size: 21px;
+    margin-bottom: 0px;
 }
 
 h1.special {
@@ -37,24 +55,6 @@ h2 {
     font-size: 0.9em;
     margin-bottom: 1em;
     padding: 0;
-}
-
-nav {
-    text-align: right;
-}
-
-nav a {
-    margin-left: 0.4em !important;
-    text-decoration: none;
-}
-
-nav a, p.special {
-      background-color: #3b3b3b;
-      border-radius: 1em;
-      color: #ffffff;
-      display: inline-block;
-      margin: 0;
-      padding: 0.3em 1em;
 }
 
 p.diary {
