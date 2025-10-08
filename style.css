@@ -1,3 +1,4 @@
+/* Page and Navigation */
 body {
     background-color: #bab3b6;
     margin: 0.5em;
@@ -5,6 +6,21 @@ body {
     text-align: center;
 }
 
+nav {
+    text-align: right;
+}
+
+nav a {
+    background-color: #3b3b3b;
+    border-radius: 1em;
+    color: #ffffff;
+    display: inline-block;
+    margin: 0 0.2em;
+    padding: 0.3em 1em;
+    text-decoration: none;
+}
+
+/* Biography */
 div {
     background-color: #ffffff;
     display: inline-block;
@@ -22,38 +38,30 @@ div h1 {
     font-size: 1em !important;
 }
 
+p.special {
+    background-color: #3b3b3b;
+    border-radius: 1em;
+    color: #ffffff;
+    display: inline-block;
+    margin: 0;
+    padding: 0.3em 1em;
+}
+
+/* Diary */
+h1.special {
+    margin-top: 1.9em;
+}
+
 h1 {
     font-size: 1.5em;
     margin-bottom: 0;
 }
 
-h1.special {
-    margin-top: 1.9em;
-}
-
 h2 {
-    font-weight: normal;
     font-size: 0.9em;
+    font-weight: normal;
     margin-bottom: 1em;
     padding: 0;
-}
-
-nav {
-    text-align: right;
-}
-
-nav a {
-    margin-left: 0.4em !important;
-    text-decoration: none;
-}
-
-nav a, p.special {
-      background-color: #3b3b3b;
-      border-radius: 1em;
-      color: #ffffff;
-      display: inline-block;
-      margin: 0;
-      padding: 0.3em 1em;
 }
 
 p.diary {
