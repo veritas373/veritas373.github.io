@@ -28,6 +28,10 @@ footer a.simple {
     text-decoration: none;
 }
 
+footer a.simple:hover {
+    text-decoration: underline;
+}
+
 /* Biography */
 div {
     background-color: #ffffff;
