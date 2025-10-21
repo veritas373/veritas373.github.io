@@ -1,4 +1,4 @@
-/* Page and Navigation */
+/* Page, navigation, and footer */
 body {
     background-color: #bab3b6;
     margin: 0.5em;
@@ -18,6 +18,15 @@ nav a {
     margin: 0 0.2em;
     padding: 0.3em 1em;
     text-decoration: none;
+}
+
+footer a {
+    color: #000000;
+}
+
+footer span {
+    background-color: #ffffff;
+    opacity: 0.75;
 }
 
 /* Biography */
