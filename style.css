@@ -24,8 +24,9 @@ footer a {
     color: #000000;
 }
 
-footer span {
+footer span a {
     background-color: #ffffff;
+    text-decoration: none;
     opacity: 0.75;
 }
 
