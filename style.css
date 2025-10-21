@@ -24,10 +24,8 @@ footer a {
     color: #000000;
 }
 
-footer span a {
-    background-color: #ffffff;
+footer a.simple {
     text-decoration: none;
-    opacity: 0.75;
 }
 
 /* Biography */
